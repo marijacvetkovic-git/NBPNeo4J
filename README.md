@@ -29,7 +29,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-
+# IMPORTANT 
+- add data in database from neo4j-podaci.txt
 # IMPORTANT for accessing noFil[lt]er as an admin:  
 - admin's username: admin, password: 123
 - after creating a new product, make sure to assign an ingredient/ingredients, a brand, a skin type and a product type to that product
